@@ -1,7 +1,9 @@
 body {
     background-color: rgb(241, 217, 217);
+    color: rgb(57, 108, 153);
+    font-size: 20px;
 }
 
-body {
-    color: rgb(57, 108, 153);
+h1, h2 {
+    color: rgb(154, 154, 214);
 }
